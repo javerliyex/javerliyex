@@ -1,75 +1,115 @@
-<h1 align="center">Hi 👋, I'm Zhanibek 👨‍💻</h1>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw5enkxbjBnMHBheTJzNmxvaGo2eWo1d3k1Njgwc3Bzendjczl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" alt="Описание GIF">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/user/repository/main/animated.gif" alt="Custom Animated GIF"/>
-</p>
+</div>
+<br>
 
-<h2 align="center">Android Developer 🌟</h2>
+<div align="center">
+  <h1>Hello My name is Zhanibek  👨‍💻</h1>
+</div>
 
-As a passionate Junior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi-platform Development while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.
+<div align="center">
+  <h2>Android Developer 📱</h2>
+</div>
 
-### 🔧 Technical Skills
+<div align="justify">
+  <p>As passionate Junior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi platform Development etc. while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.</p>
+</div>
 
-- **Languages:** Kotlin, Java, Python
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
+</div>
+
+<br>
+<div >
+🛠 Technical Skills
+
 - **Architecture Patterns:** MVVM, MVI, Clean Architecture
-- **Dependency Injection:** Dagger 2, Hilt, Koin
-- **Networking:** Retrofit, OkHttp
+- **Dependency Injection:** Dagger, Hilt
+- **Networking:** Retrofit
 - **Reactive Programming:** RxJava, Coroutines, Flow
-- **Persistence:** Room, SQLite
-- **UI:** Jetpack Compose, XML, Material-UI, Glide, Coil, Lottie
-- **Android Components:** Service, Broadcast Receiver, Content Provider, Paging
-- **Developer Tools:** Git, Figma, Shtab, Jira, Miro, Postman, Swagger, Android Studio, IntelliJ IDEA, PyCharm
+- **Persistence:** Room
+- **UI:** Jetpack Compose, XML
+- **Android Components:** Service, Broadcast Receiver, Content Provider
+- **Version Control:** Git, Git Flow
+  
+</div>
 
-### 🌐 Connect with me
+<br>
 
-<p align="center">
-  <a href="https://web.telegram.org/a/#1792932010">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:zhanibek.bralin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<h3>Backend:</h3>
+<div>
 
-### 🛠️ Languages and Tools
+<div align="left">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+</div>
 
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Jetpack Compose" width="40" height="40"/>
-  </a>
-</p>
+### My Goal
 
-### 💡 Projects
+I am aiming to become a Fullstack Android Developer by expanding my backend skills.  
+Currently, I'm focusing on:
 
-- **Vknews Client** (June 2024 – August 2024)
-  - Android SDK, Kotlin, MVVM, Dagger 2, Coroutines + Flow, Retrofit
-  - Developed a news recommendation page similar to VK.
-  - Integrated VK API using Retrofit.
+- **Spring Boot**  
+- **Spring Security**  
+- **Spring Data JPA**  
+- **Microservices**  
+- **Kafka**  
+- **RabbitMQ**  
+- **Redis**  
+- **Docker**  
+- **Kubernetes**  
+- **Liquibase**  
+- **Unit Testing**  
+- **GraphQL**  
+- **gRPC**  
+- **PostgreSQL**
 
-- **Weather App** (August 2024 – September 2024)
-  - Android SDK, Kotlin, MVI (Decompose), Dagger 2, Coroutines + Flow, Retrofit, Room
-  - Developed an Android app to search, save, and view weather data.
-  - Integrated Weather API and Room for local data storage.
+By mastering these technologies, I plan to build robust, scalable, and secure server-side solutions that seamlessly integrate with modern Android applications.
 
-- **Movies App** (September 2024 – November 2024)
-  - Android SDK, Kotlin, MVI, Hilt, Coroutines + Flow, Retrofit, Room
-  - Developed an Android app to view, search, and save movies.
-  - Integrated Kinopoisk API and Room for data handling.
+
+
+
+
+
+
+
+
