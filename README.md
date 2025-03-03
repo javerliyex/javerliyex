@@ -1,8 +1,8 @@
-## Hi 👋, I'm Zhanibek
+<h1 align="center">Hi 👋, I'm Zhanibek 👨‍💻</h1>
 
-### Android Developer 🌟
+<h2 align="center">Android Developer 🌟</h2>
 
-As a passionate Senior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi-platform Development while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.
+As a passionate Junior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi-platform Development while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.
 
 ### 🔧 Technical Skills
 
@@ -18,12 +18,18 @@ As a passionate Senior Android Developer, I'm dedicated to continuous learning a
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhanibek-ali-4a7397347/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javerliyex)
+<p align="center">
+  <a href="https://linkedin.com/in/zhanibek-ali-4a7397347/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/javerliyex">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
