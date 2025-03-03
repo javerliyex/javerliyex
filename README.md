@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhanibek 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/user/repository/main/image.png" alt="Custom Header Image"/>
+  <img src="https://raw.githubusercontent.com/user/repository/main/animated.gif" alt="Custom Animated GIF"/>
 </p>
 
 <h2 align="center">Android Developer 🌟</h2>
