@@ -1,8 +1,8 @@
-## Hi 👋, I'm Beknur
+## Hi 👋, I'm Zhanibek
 
 ### Android Developer 🌟
 
-As a passionate Junior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi-platform Development while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.
+As a passionate Senior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi-platform Development while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.
 
 ### 🔧 Technical Skills
 
