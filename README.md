@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/ru/6/6f/BerserkGuts.jpg)
+![MasterHead](https://cs12.pikabu.ru/post_img/2021/07/14/1/1626218049196824782.jpg)
 
 <h1 align="center">Hi 👋, I'm Zhanibek</h1>
 <h3 align="center">Intern Android Developer. My Telegram : @javerliyex</h3>
