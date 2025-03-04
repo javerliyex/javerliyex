@@ -1,4 +1,4 @@
-![MasterHead](https://cs12.pikabu.ru/post_img/2021/07/14/1/1626218049196824782.jpg)
+<img src="https://cs12.pikabu.ru/post_img/2021/07/14/1/1626218049196824782.jpg" width="100%" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Zhanibek</h1>
 <h3 align="center">Intern Android Developer. My Telegram : @javerliyex</h3>
