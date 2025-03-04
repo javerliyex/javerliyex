@@ -40,33 +40,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
 </div>
-
-<br>
-<div>
-  <h3>🛠 Technical Skills</h3>
-  
-  <ul>
-    <li><strong>Architecture Patterns:</strong> MVVM, MVI, Clean Architecture</li>
-    <li><strong>Dependency Injection:</strong> Dagger 2, Hilt, Koin</li>
-    <li><strong>Networking:</strong> Retrofit, OkHttp</li>
-    <li><strong>Reactive Programming:</strong> Kotlin Coroutines, Flow, RxJava</li>
-    <li><strong>Persistence:</strong> Room, DataStore</li>
-    <li><strong>UI:</strong> Jetpack Compose, XML</li>
-    <li><strong>Android Components:</strong> Activity, ViewModel,  Navigation Component, Service, Broadcast Receiver, Content Provider</li>
-    <li><strong>Multithreading:</strong> Coroutines, WorkManager</li>
-    <li><strong>Version Control:</strong> Git, Git Flow</li>
-    <li><strong>Analytics & Crash Reporting:</strong> Firebase Analytics</li>
-  </ul>
-</div>
-
-<br>
-
-<div>
-  <h3>📌 Languages & Tools</h3>
-  
-  <ul>
-    <li><strong>Languages:</strong> Kotlin, Java, Python</li>
-    <li><strong>Libraries & Frameworks:</strong> Android SDK, Jetpack Compose, Material-UI, Firebase, Retrofit, OkHttp, Dagger 2, Hilt, Room, Koin, Paging, Kotlin Coroutines, Flow, GSON, Kotlin Serialization, Glide, Coil, Lottie</li>
-    <li><strong>Developer Tools:</strong> Git, Figma, Shtab, Jira, Miro, Postman, Swagger, Android Studio, IntelliJ IDEA, PyCharm</li>
-  </ul>
-</div>
