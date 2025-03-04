@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anxglsss&label=Profile%20views&color=0e75b6&style=flat" alt="anxglsss" /> </p>
 
 - 🌱 I’m currently working at **Wisher Pro**
-- 🌱 Learning **Clean Code**
-
 - 📫 How to reach me **zhanibek.bralin@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,3 +34,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
 </div>
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javerliyex&layout=compact&langs_count=6&theme=radical)](https://github.com/javerliyex)
