@@ -1,4 +1,5 @@
- ![MasterHead](https://i.gifer.com/VJEm.gif)
+![MasterHead](https://upload.wikimedia.org/wikipedia/ru/6/6f/BerserkGuts.jpg)
+
 <h1 align="center">Hi 👋, I'm Zhanibek</h1>
 <h3 align="center">Intern Android Developer. My Telegram : @javerliyex</h3>
 <img align="right" width="400" src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw5enkxbjBnMHBheTJzNmxvaGo2eWo1d3k1Njgwc3Bzendjczl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif' alt="javerliyex")'>
@@ -32,6 +33,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
 </div>
-### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javerliyex&layout=compact&langs_count=6&theme=radical)](https://github.com/javerliyex)
