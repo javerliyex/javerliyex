@@ -1,20 +1,16 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw5enkxbjBnMHBheTJzNmxvaGo2eWo1d3k1Njgwc3Bzendjczl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" alt="Описание GIF">
-</div>
-<br>
+![MasterHead](https://i.gifer.com/VJEm.gif)
+<h1 align="center">Hi 👋, I'm Zhanibek</h1>
+<h3 align="center">Android Developer, 2-year student at SDU. My Telegram : @javerliyex</h3>
+<img align="right" width="400" src='https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif'>
 
-<div align="center">
-  <h1>Hello My name is Zhanibek  👨‍💻</h1>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anxglsss&label=Profile%20views&color=0e75b6&style=flat" alt="anxglsss" /> </p>
 
-<div align="center">
-  <h2>Android Developer 📱</h2>
-</div>
+- 🌱 I’m currently working at **Wisher Pro**
+- 🌱 Learning **Clean Code**
 
-<div align="justify">
-  <p>As passionate Intern Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development.</p>
-</div>
+- 📫 How to reach me **zhanibek.bralin@gmail.com**
 
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
