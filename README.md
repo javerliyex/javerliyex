@@ -1,9 +1,11 @@
 ![MasterHead](https://i.gifer.com/VJEm.gif)
 <h1 align="center">Hi 👋, I'm Zhanibek</h1>
-<h3 align="center">Android Developer, 2-year student at SDU. My Telegram : @javerliyex</h3>
+<h3 align="center">Intern Android Developer. My Telegram : @javerliyex</h3>
 <img align="right" width="400" src='https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anxglsss&label=Profile%20views&color=0e75b6&style=flat" alt="anxglsss" /> </p>
+<p align="left">  
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw5enkxbjBnMHBheTJzNmxvaGo2eWo1d3k1Njgwc3Bzendjczl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" alt="Описание GIF">
+ </p>
 
 - 🌱 I’m currently working at **Wisher Pro**
 - 📫 How to reach me **zhanibek.bralin@gmail.com**
