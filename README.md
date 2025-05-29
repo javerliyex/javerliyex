@@ -4,7 +4,6 @@
 <img align="right" width="400" src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw5enkxbjBnMHBheTJzNmxvaGo2eWo1d3k1Njgwc3Bzendjczl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif' alt="javerliyex")'>
 
 
-- 📫 How to reach me **zhanibek.bralin@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
